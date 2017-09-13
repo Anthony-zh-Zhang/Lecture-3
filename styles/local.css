@@ -6,3 +6,11 @@ display: none, inline, inline-block, block
 position: static, absolute, relative, fixed
 inline style & style priority
 */
+
+div.boxy {
+  background-color: pink;
+  width: 100px;
+  height: 100px;
+
+  transition: all 0.2s;
+}
